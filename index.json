@@ -1,0 +1,11 @@
+{
+    "posts": [
+      { "id": 1, "title": "Список отелей", "author": "Фаланга" }
+    ],
+    "comments": [
+      { "id": 1, "hotel": "Самарский отель", "region": "Самара", "number": "1", "category": "Апартаменты шо звиздец", "place": "4", "status": "свободен"},
+      { "id": 2, "hotel": "Абоба отель", "region": "Ленобласть", "number": "15", "category": "Стандарт","place": "2", "status": "занят"},
+      { "id": 3, "hotel": "Наш слонярский отель", "region": "Уганда", "number": "27", "category": "Люкс","place": "2", "status": "свободен"}
+    ],
+    "profile": { "name": "typicode" }
+  }
